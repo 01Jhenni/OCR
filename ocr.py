@@ -6,7 +6,6 @@ from PIL import Image, ImageTk
 import fitz  # PyMuPDF para suporte a PDF
 import pandas as pd
 
-
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\jhennifer.nascimento\\Downloads\\5.4.1 source code'
 
 # Inicialização da janela Tkinter
